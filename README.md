@@ -1,6 +1,6 @@
 # npmdoc-stripe
 
-#### api documentation for  [stripe (v4.18.0)](https://github.com/stripe/stripe-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-stripe.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stripe) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stripe.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stripe)
+#### basic api documentation for  [stripe (v4.18.0)](https://github.com/stripe/stripe-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-stripe.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stripe) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stripe.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stripe)
 
 #### Stripe API wrapper
 
@@ -110,7 +110,8 @@
         "mocha": "mocha",
         "test": "npm run lint && mocha"
     },
-    "version": "4.18.0"
+    "version": "4.18.0",
+    "bin": {}
 }
 ```
 
